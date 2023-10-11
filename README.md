@@ -23,7 +23,7 @@ Before running the backend, ensure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/users-agify/users-agify-backend.git
+   git clone https://github.com/aliyevroyal/UserRestAPI
    ```
 
 2. Navigate to the backend directory.
